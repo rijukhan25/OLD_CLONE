@@ -26,4 +26,4 @@ $ git clone https://github.com/MAHIN-XD/Only-Green
 
 $ cd Only-Green
 
-$ python 2.py
+$ python 3.py
